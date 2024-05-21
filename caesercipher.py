@@ -44,6 +44,7 @@ while True:
     end_task = input("Do you wanna play again? -'yes' or 'no'\n").lower()
 
     if end_task == 'no':
+         print("Goodbye!")
          break
 
     
